@@ -3,7 +3,7 @@
 [![Python Version](https://img.shields.io/badge/python-3.x-blue)](https://www.python.org/)  
 [![License](https://img.shields.io/badge/license-MIT-green)](https://opensource.org/licenses/MIT)
 
-<img width="900" src="https://share.gemini.google/hTflHiU4eV66" alt="Logo"/>
+
 
 A **simple command-line calculator** in Python that performs basic arithmetic operations, keeps a **history of calculations**, and allows you to **manage your history**. Perfect for quick calculations right in your terminal! ✨
 
